@@ -1,0 +1,13 @@
+{
+  "name": "minimax-test-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app to test MiniMax M2.1 model integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": ["minimax", "ai", "m2.1", "test"],
+  "author": "",
+  "license": "ISC"
+}
